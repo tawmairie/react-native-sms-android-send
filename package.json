@@ -1,0 +1,31 @@
+{
+  "name": "react-native-sms-android-send",
+  "version": "0.4.2",
+  "description": "A react-native module for sending a sms message to a phone number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android",
+    "contact",
+    "addressbook",
+    "sms"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "github.com:tawmairie/react-native-sms-android-send.git"
+  },
+  "author": "tawmairie <email@example.com> (http://github.com/tawmairie)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tawmairie/react-native-sms-android-send/issues"
+  },
+  "homepage": "https://github.com/tawmairie/react-native-sms-android-send",
+  "peerDependencies": {
+    "react-native": ">=0.19.0"
+  },
+  "devDependencies": {}
+}
